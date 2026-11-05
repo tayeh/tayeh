@@ -3,8 +3,3 @@ user: tayeh
 include:
   private: true
   orgs: true
-summary:
-  ring: github
-style: oled
-color: theme
-matrix: false

@@ -6,5 +6,5 @@ include:
 summary:
   ring: github
 style: oled
-color: green
+color: theme
 matrix: false

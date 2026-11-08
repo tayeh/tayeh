@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" fill="none" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="195" viewBox="0 0 400 195" fill="none" role="img" aria-labelledby="title desc">
 <title id="title">Weekly rhythm</title>
-<desc id="desc">Contributions per weekday over the last 12 months (1,212 in total): Mon 218, Tue 187, Wed 231, Thu 224, Fri 76, Sat 72, Sun 204. Busiest: Wed.</desc>
+<desc id="desc">Contributions per weekday over the last 12 months (1,236 in total): Mon 220, Tue 187, Wed 231, Thu 224, Fri 76, Sat 72, Sun 226. Busiest: Wed. Quietest: Sat. On weekdays: 76%.</desc>
 <style>
   text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #1f2328; }
   .label { font-size: 14px; }
@@ -21,14 +21,17 @@
   .rise { transform-box: fill-box; transform-origin: bottom; animation: rise 0.7s cubic-bezier(.2,.7,.2,1) both; }
   @keyframes rise { from { transform: scaleY(0); } }
 </style>
-<rect x="0.5" y="0.5" width="349" height="194" rx="6" fill="none" stroke="none"/>
+<rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="none" stroke="none"/>
 <text x="20" y="28" class="col">WEEKLY RHYTHM</text>
-<line x1="20" y1="166.5" x2="330" y2="166.5" stroke="#d1d9e0"/>
-<path class="rise" style="animation-delay: 200ms" d="M30.142857142857142 166V64.3030303030303Q30.142857142857142 60.3030303030303 34.14285714285714 60.3030303030303H50.14285714285714Q54.14285714285714 60.3030303030303 54.14285714285714 64.3030303030303V166Z" fill="#9be9a8"/><text x="42.14285714285714" y="184" text-anchor="middle" class="small secondary">Mon</text>
-<path class="rise" style="animation-delay: 260ms" d="M74.42857142857142 166V79.33333333333333Q74.42857142857142 75.33333333333333 78.42857142857142 75.33333333333333H94.42857142857142Q98.42857142857142 75.33333333333333 98.42857142857142 79.33333333333333V166Z" fill="#9be9a8"/><text x="86.42857142857142" y="184" text-anchor="middle" class="small secondary">Tue</text>
-<path class="rise" style="animation-delay: 320ms" d="M118.71428571428571 166V58Q118.71428571428571 54 122.71428571428571 54H138.71428571428572Q142.71428571428572 54 142.71428571428572 58V166Z" fill="#9be9a8"/><text x="130.71428571428572" y="184" text-anchor="middle" class="small secondary">Wed</text>
-<path class="rise" style="animation-delay: 380ms" d="M163 166V61.39393939393939Q163 57.39393939393939 167 57.39393939393939H183Q187 57.39393939393939 187 61.39393939393939V166Z" fill="#9be9a8"/><text x="175" y="184" text-anchor="middle" class="small secondary">Thu</text>
-<path class="rise" style="animation-delay: 440ms" d="M207.28571428571428 166V133.15151515151516Q207.28571428571428 129.15151515151516 211.28571428571428 129.15151515151516H227.28571428571428Q231.28571428571428 129.15151515151516 231.28571428571428 133.15151515151516V166Z" fill="#30a14e"/><text x="219.28571428571428" y="184" text-anchor="middle" class="small secondary">Fri</text>
-<path class="rise" style="animation-delay: 500ms" d="M251.57142857142856 166V135.0909090909091Q251.57142857142856 131.0909090909091 255.57142857142856 131.0909090909091H271.57142857142856Q275.57142857142856 131.0909090909091 275.57142857142856 135.0909090909091V166Z" fill="#30a14e"/><text x="263.57142857142856" y="184" text-anchor="middle" class="small secondary">Sat</text>
-<path class="rise" style="animation-delay: 560ms" d="M295.8571428571429 166V71.0909090909091Q295.8571428571429 67.0909090909091 299.8571428571429 67.0909090909091H315.8571428571429Q319.8571428571429 67.0909090909091 319.8571428571429 71.0909090909091V166Z" fill="#9be9a8"/><text x="307.8571428571429" y="184" text-anchor="middle" class="small secondary">Sun</text>
+<line x1="20" y1="166.5" x2="240" y2="166.5" stroke="#d1d9e0"/>
+<path class="rise" style="animation-delay: 200ms" d="M26.714285714285715 166V63.33333333333334Q26.714285714285715 59.33333333333334 30.714285714285715 59.33333333333334H40.714285714285715Q44.714285714285715 59.33333333333334 44.714285714285715 63.33333333333334V166Z" fill="#9be9a8"/><text x="35.714285714285715" y="184" text-anchor="middle" class="small secondary">Mon</text>
+<path class="rise" style="animation-delay: 260ms" d="M58.142857142857146 166V79.33333333333333Q58.142857142857146 75.33333333333333 62.142857142857146 75.33333333333333H72.14285714285714Q76.14285714285714 75.33333333333333 76.14285714285714 79.33333333333333V166Z" fill="#9be9a8"/><text x="67.14285714285714" y="184" text-anchor="middle" class="small secondary">Tue</text>
+<path class="rise" style="animation-delay: 320ms" d="M89.57142857142857 166V58Q89.57142857142857 54 93.57142857142857 54H103.57142857142857Q107.57142857142857 54 107.57142857142857 58V166Z" fill="#9be9a8"/><text x="98.57142857142857" y="184" text-anchor="middle" class="small secondary">Wed</text>
+<path class="rise" style="animation-delay: 380ms" d="M120.99999999999999 166V61.39393939393939Q120.99999999999999 57.39393939393939 124.99999999999999 57.39393939393939H135Q139 57.39393939393939 139 61.39393939393939V166Z" fill="#9be9a8"/><text x="130" y="184" text-anchor="middle" class="small secondary">Thu</text>
+<path class="rise" style="animation-delay: 440ms" d="M152.42857142857144 166V133.15151515151516Q152.42857142857144 129.15151515151516 156.42857142857144 129.15151515151516H166.42857142857144Q170.42857142857144 129.15151515151516 170.42857142857144 133.15151515151516V166Z" fill="#30a14e"/><text x="161.42857142857144" y="184" text-anchor="middle" class="small secondary">Fri</text>
+<path class="rise" style="animation-delay: 500ms" d="M183.85714285714286 166V135.0909090909091Q183.85714285714286 131.0909090909091 187.85714285714286 131.0909090909091H197.85714285714286Q201.85714285714286 131.0909090909091 201.85714285714286 135.0909090909091V166Z" fill="#30a14e"/><text x="192.85714285714286" y="184" text-anchor="middle" class="small secondary">Sat</text>
+<path class="rise" style="animation-delay: 560ms" d="M215.28571428571428 166V60.424242424242436Q215.28571428571428 56.424242424242436 219.28571428571428 56.424242424242436H229.28571428571428Q233.28571428571428 56.424242424242436 233.28571428571428 60.424242424242436V166Z" fill="#9be9a8"/><text x="224.28571428571428" y="184" text-anchor="middle" class="small secondary">Sun</text>
+<g transform="translate(258 46)"><g class="fade" style="animation-delay: 470ms"><text y="11" class="small secondary">Busiest day · 231</text><text y="34" style="font-size: 20px; font-weight: 700;">Wednesday</text></g></g>
+<g transform="translate(258 92)"><g class="fade" style="animation-delay: 560ms"><text y="11" class="small secondary">Quietest day · 72</text><text y="34" style="font-size: 20px; font-weight: 700;">Saturday</text></g></g>
+<g transform="translate(258 138)"><g class="fade" style="animation-delay: 650ms"><text y="11" class="small secondary">On weekdays</text><text y="34" style="font-size: 20px; font-weight: 700;">76%</text></g></g>
 </svg>

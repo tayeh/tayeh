@@ -22,7 +22,7 @@
 <rect x="0.5" y="0.5" width="399" height="194" rx="6" fill="none" stroke="none"/>
 <text x="20" y="28" class="col">MOST USED LANGUAGES</text>
 <mask id="bar"><rect class="grow" x="20" y="48" width="360" height="10" rx="5" fill="#fff"/></mask>
-<g mask="url(#bar)"><rect x="20.00" y="48" width="83.68" height="10" fill="#00ADD8"/><rect x="105.68" y="48" width="58.60" height="10" fill="#ff3e00"/><rect x="166.29" y="48" width="36.39" height="10" fill="#00ADD8"/><rect x="204.68" y="48" width="35.02" height="10" fill="#3178c6"/><rect x="241.70" y="48" width="30.49" height="10" fill="#4F5D95"/><rect x="274.19" y="48" width="105.81" height="10" fill="#6e7681"/></g>
+<g mask="url(#bar)"><rect x="20.00" y="48" width="83.68" height="10" fill="#00ADD8"/><rect x="105.68" y="48" width="58.60" height="10" fill="#ff3e00"/><rect x="166.29" y="48" width="36.39" height="10" fill="#00ADD8"/><rect x="204.68" y="48" width="34.97" height="10" fill="#3178c6"/><rect x="241.65" y="48" width="30.58" height="10" fill="#4F5D95"/><rect x="274.23" y="48" width="105.77" height="10" fill="#6e7681"/></g>
 <g transform="translate(20 84)"><g class="fade" style="animation-delay: 200ms"><circle cx="5" cy="6" r="5" fill="#00ADD8"/><text x="16" y="11" class="label">Go Template <tspan class="secondary">23.9%</tspan></text></g></g>
 <g transform="translate(200 84)"><g class="fade" style="animation-delay: 270ms"><circle cx="5" cy="6" r="5" fill="#ff3e00"/><text x="16" y="11" class="label">Svelte <tspan class="secondary">16.7%</tspan></text></g></g>
 <g transform="translate(20 116)"><g class="fade" style="animation-delay: 340ms"><circle cx="5" cy="6" r="5" fill="#00ADD8"/><text x="16" y="11" class="label">Go <tspan class="secondary">10.4%</tspan></text></g></g>
